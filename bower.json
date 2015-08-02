@@ -1,0 +1,20 @@
+{
+  "name": "inside_test_9",
+  "version": "0.0.1",
+  "authors": [
+    "Michael del Monte <michael@dnamicro.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.2",
+    "foundation-icon-fonts": "*"
+  }
+}
